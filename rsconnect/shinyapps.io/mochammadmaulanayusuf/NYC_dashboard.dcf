@@ -1,0 +1,13 @@
+name: NYC_dashboard
+title: NYC_dashboard
+username:
+account: mochammadmaulanayusuf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5368937
+bundleId: 5408171
+url: https://mochammadmaulanayusuf.shinyapps.io/NYC_dashboard/
+when: 1640416180.27758
+lastSyncTime: 1640416180.27758
+asMultiple: FALSE
+asStatic: FALSE
